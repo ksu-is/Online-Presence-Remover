@@ -6,3 +6,4 @@ In order to increase users privacy online, this tool will take a users email add
 Code Examples to Explore:
 
 https://github.com/chander/social-network-cleaner - Social Network Cleaning Tool
+https://github.com/Greenwolf/social_mapper - Social Mapper is an Open Source Intelligence Tool that uses facial recognition to correlate social media profiles across different sites on a large scale.
