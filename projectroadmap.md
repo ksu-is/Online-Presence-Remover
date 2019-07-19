@@ -1,8 +1,8 @@
 ## Coding and Development Timeline
 ### My Tasks
 1. DONE - Research existing libraries and code archives in order to figure out what all needs to be imported into the code base.
-2. Create ASCII art logo that displays the name of the program to the user.
-3. Write code that asks user for input on common usernames and/or email addresses
+2. DONE - Create ASCII art logo that displays the name of the program to the user.
+3. DONE - Write code that asks user for input on common usernames and/or email addresses
 4. Test code to ensure user information is getting stored correctly.
 5. Research how to take user input and then append it to an HTML link so that data can be collected and imported from existing online search databases.
 6. Look into the code found here https://github.com/KURO-CODE/DoxTracker/blob/master/DoxTracker.py and decide whether or not their method of searching user information could be used.
